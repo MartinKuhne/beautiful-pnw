@@ -1,0 +1,87 @@
+:root {
+  --font-sans: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --color-text: #1f2933;
+  --color-muted: #52606d;
+  --color-accent: #2b6cb0;
+  --color-bg: #f8fafc;
+  --color-border: #e2e8f0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+header {
+  background: #fff;
+  border-bottom: 1px solid var(--color-border);
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: baseline;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+
+header a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: var(--color-accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+h1, h2, h3, h4 {
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+a {
+  color: var(--color-accent);
+}
+
+footer {
+  max-width: 46rem;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 2.5rem;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+}
