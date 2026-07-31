@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yakima Valley Weekend
+---
+
 # Yakima Valley Weekend — Great Prosser Balloon Rally & Wine Country
 
 > **Trip Dates:** September 25–27, 2026 (4th full weekend in September)

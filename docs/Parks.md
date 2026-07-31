@@ -1,3 +1,8 @@
+---
+layout: default
+title: Parks
+---
+
 # National Park Service (NPS) Sites in Washington
 
 Washington hosts 3 Major National Parks alongside several historical sites, recreation areas, and trails managed by the NPS:

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Palouse Falls Weekend
+---
+
 # Weekend Trip: Seattle to Palouse Falls
 
 ## Best Time to Visit
