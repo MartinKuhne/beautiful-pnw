@@ -1,5 +1,5 @@
 :root {
-  --font-sans: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
   --color-text: #1f2933;
   --color-muted: #52606d;
   --color-accent: #2b6cb0;
